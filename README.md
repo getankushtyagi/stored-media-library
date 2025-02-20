@@ -48,5 +48,3 @@ $url = $post->getFirstMedia()->getUrl();
 // Get conversion URL
 $thumbUrl = $post->getFirstMedia()->getConversionUrl('thumb');
 ```
-
-For more detailed documentation, visit [link-to-your-documentation].
